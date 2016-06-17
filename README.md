@@ -2,6 +2,9 @@
 Enhancement to the PHP DOMDocument functionality
 
 
+Text for Packagist...
+
+
 ![Build status](https://img.shields.io/circleci/project/trzczy/Dom.svg?style=flat-square)
 
 
