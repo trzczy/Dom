@@ -14,5 +14,10 @@
             "name": "trzczy",
             "email": "trzczy@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Trzczy\\Dom\\": "./src"
+        }
+    }
 }
